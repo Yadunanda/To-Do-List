@@ -9,7 +9,7 @@ return(
 <h5>By Yadunanda Mukundhan(Uottawa)</h5>
 <h2>Create Your Todo in 3 Easy steps</h2>
 <h3 className={Classes.one}>1.Select what kind of ToDo list you want to write</h3>
-<h3 className={Classes.two}>2.Write todos with your preffered  Date, Time and the Level of Importance  </h3>
+<h3 className={Classes.two}>2.Write todos with your preferred  Date, Time and the Level of Importance  </h3>
 <h3 className={Classes.three}>3.Submit Your Todos and view it in the 'YOUR TODO-List' section</h3>
   </div>
 )
