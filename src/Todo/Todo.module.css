@@ -1,0 +1,21 @@
+li{
+  list-style-type: none;
+}
+.two{
+  color: white;
+ text-decoration: none;
+
+
+}
+.h{
+  border-style: revert;
+    margin-top: 10px;
+    background-color: orange;
+    padding:2px;
+}
+.j{
+  background-color: lightgreen;
+}
+.but{
+  margin:5px;
+}
